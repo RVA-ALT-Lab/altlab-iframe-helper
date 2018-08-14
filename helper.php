@@ -2,7 +2,7 @@
 /**
  * Plugin Name: ALT LAB Iframe Helper
  * Plugin URI: https://github.com/woodwardtw/
- * Description: Shortcode to throw IG pics by tag or user //[igpics user="" or tag="" pics="5"]
+ * Description: auto builds an iframe embed for posts/pages with auto height attributes to aid in embedding elswhere
 
  * Version: 1.7
  * Author: Tom Woodward
