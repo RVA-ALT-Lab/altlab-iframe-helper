@@ -1,0 +1,19 @@
+#copy-embed {
+	border-radius: 0;
+	font-size: 1em;
+	height: 40px;
+	border-left: 1px solid #424242;
+	border-top: 1px solid #424242;
+	border-bottom: 1px solid #424242;
+	width: 80px;
+}
+
+#copy-embed:hover {
+	background: green;
+}
+
+#iframe-code {
+	font-size: 1em;
+	height: 40px;
+	border: 1px solid #424242;
+}
