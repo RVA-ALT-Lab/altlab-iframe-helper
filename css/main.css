@@ -6,6 +6,17 @@
 	border-top: 1px solid #424242;
 	border-bottom: 1px solid #424242;
 	width: 80px;
+	display: inline-block;
+	-webkit-transition: .5s all;   
+    -webkit-transition-delay: 5s; 
+    -moz-transition: .5s all;   
+    -moz-transition-delay: 5s; 
+    -ms-transition: .5s all;   
+    -ms-transition-delay: 5s; 
+    -o-transition: .5s all;   
+    -o-transition-delay: 5s; 
+    transition: .5s all;   
+    text-align: center;
 }
 
 #copy-embed:hover {
@@ -16,4 +27,7 @@
 	font-size: 1em;
 	height: 40px;
 	border: 1px solid #424242;
+	width: 80%;
+	border-radius: 0;
+	display: inline-block;
 }
