@@ -46,4 +46,7 @@ function add_iframe_code_element($content){
         $html .= '<input type="text" name="iframe-embed" id="iframe-code" data-url="' . $url . '">';
         return $content . $html;
                                     }
+        else {
+            return $content;
+        }
 }
